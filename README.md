@@ -1,3 +1,3 @@
-# DIVYAMSINH.MD
+# DIVYAMSINH.md
 
 learning pyhton
